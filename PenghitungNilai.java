@@ -8,5 +8,7 @@
  * @author vitof
  */
 public class PenghitungNilai {
-    
+    public static void main(String[] args) {
+        
+    }
 }
