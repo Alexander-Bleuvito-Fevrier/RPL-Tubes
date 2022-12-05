@@ -9,5 +9,7 @@
  * @author alvin
  */
 public class Penilaian {
-    
+    public static void main(String[] args) {
+        
+    }
 }
